@@ -3,34 +3,62 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+こんにちは！
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+Yoshida Naoto (naotoycd)と申します。
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+普段は日本のとある場所でプログラマをしています。
+
+このサイトでは、プログラミングに関する技術的な事柄を中心に、  
+私が学習過程で躓いた点や解決策などを共有していきたいと思っています。
+
+同じような課題を抱えている方や、プログラミングに興味を持っている方にとって、  
+少しでも参考になる情報発信ができれば幸いです。
+
+どうぞよろしくお願いいたします。
+
+Yoshida Naoto
+
+※コメントや質問などがあれば、下記リンクのどれかからお気軽にご連絡ください。  
+- [X(Twitter)](https://x.com/naotoycd "X(Twitter)")
+- [Bluesky](https://bsky.app/profile/naotoycd.bsky.social "Bluesky")
+- [メール](mailto:naotoycd@gmail.com "メール")
 
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/logo.png" class="sm:w-1/2 mx-auto" alt="naotoycd icon">
 </div>
 
-## Tech Stack
+## スキル
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+#### ある程度理解できる(業務での使用経験あり)
+- Java
+- JavaScript/TypeScript
+- GitHub/GitLab
+- Visual Studio Code
+- Eclipse
 
-## Features
+#### 勉強中
+- C++
+- C#
+- Python
+- Swift
+- Kotlin
+- Vim
 
-Here are certain features of this site.
+## 資格
+#### 保有している
+- 応用情報技術者
+- 基本情報技術者
+- 普通自動車免許(ペーパー)
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+#### 勉強中
+- 情報処理安全確保支援士
+- ネットワークスペシャリスト
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+## 好きなもの(趣味)
+- ガジェット(PC、スマホ、キーボード など)
+- 本(読書)
+- 映画
+- ドット絵
+- ジャグリング
+- ゲーム
