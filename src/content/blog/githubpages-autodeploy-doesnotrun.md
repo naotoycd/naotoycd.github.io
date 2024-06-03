@@ -3,7 +3,7 @@ title: GitHub Pagesの自動デプロイに失敗する(ブランチ名が"maste
 author: naotoycd
 pubDatetime: 2024-06-03T23:30:00+09:00
 description: GitHub ActionsによるGitHub Pagesの自動デプロイで難儀したため解決方法をメモ
-slug: githubpages-autodeploy-failed
+slug: githubpages-autodeploy-doesnotrun
 tags:
   - GitHub
   - 備忘録
