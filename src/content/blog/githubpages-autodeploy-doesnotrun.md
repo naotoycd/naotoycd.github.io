@@ -1,5 +1,5 @@
 ---
-title: GitHub Pagesの自動デプロイに失敗する(ブランチ名が"master")
+title: GitHub Pagesの自動デプロイが実行されない(ブランチ名が"master")
 author: naotoycd
 pubDatetime: 2024-06-03T23:30:00+09:00
 description: GitHub ActionsによるGitHub Pagesの自動デプロイで難儀したため解決方法をメモ
