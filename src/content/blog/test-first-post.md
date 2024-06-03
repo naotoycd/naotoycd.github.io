@@ -1,7 +1,7 @@
 ---
 title: テスト投稿
 author: naotoycd
-pubDatetime: 2024-06-01T23:00:00+09:00
+pubDatetime: 2024-06-01T23:00:00Z
 description: ブログを作成したのでテスト投稿をしてみる。
 slug: test-first-post
 tags:
