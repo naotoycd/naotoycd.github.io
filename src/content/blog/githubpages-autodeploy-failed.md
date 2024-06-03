@@ -4,7 +4,6 @@ author: naotoycd
 pubDatetime: 2024-06-03T22:30:00Z
 description: GitHub ActionsによるGitHub Pagesの自動デプロイで難儀したため解決方法をメモ
 slug: githubpages-autodeploy-failed
-draft: false
 tags:
   - GitHub
   - 備忘録
