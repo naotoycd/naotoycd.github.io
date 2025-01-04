@@ -32,14 +32,17 @@ Yoshida Naoto
 
 #### ある程度理解できる(業務での使用経験あり)
 - Java
-- JavaScript/TypeScript
-- GitHub/GitLab
-- Visual Studio Code
+- JavaScript
+- C#
+- GitHub
+- GitLab
 - Eclipse
+- Visual Studio
+- Visual Studio Code
+- Microsoft SQL Server
 
 #### 勉強中
 - C++
-- C#
 - Python
 - Swift
 - Kotlin
