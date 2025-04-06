@@ -44,8 +44,6 @@ Yoshida Naoto
 #### 勉強中
 - C++
 - Python
-- Swift
-- Kotlin
 - Vim
 
 ## 資格
